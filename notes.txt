@@ -1,0 +1,15 @@
+js is a dynamically written language
+
+variables: are the boxes to occupy the memory
+
+Declaring variables:
+identifiers   operator literal
+let             =         'a',4, (literal can be anything that is allowed under that identifier)
+var                       (can not start with a number)
+const 
+
+js is case sensitive( Yash and yash are different)
+
+var : comes from ES6 and is not usually used much
+const : cant be changed through the code
+let
